@@ -1,0 +1,5 @@
+#!/bin/sh
+# PRODUCTION FILE
+# REMOVE FOR PUBLISHING
+rm dash_backup.png
+rm restore.sh
