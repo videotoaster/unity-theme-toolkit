@@ -7,8 +7,7 @@ OK, well *maybe* there *aren't* computerized elves, but there is a nifty little 
 - an icon set installer
 - a theme installer
 - *not* a small army of computerized elves (sadly)
-- somewhat well documented source code
 - and a basic Unity theme template
 
 **Go crazy-nuts! Make cool stuff!**
-More information can be had-ed over on the wiki, but that isn't ready yet.
+More information can be had-ed over on the [[/wiki/ | wiki]].
