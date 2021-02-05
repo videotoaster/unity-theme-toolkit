@@ -10,4 +10,4 @@ OK, well *maybe* there *aren't* computerized elves, but there is a nifty little 
 - and a basic Unity theme template
 
 **Go crazy-nuts! Make cool stuff!**
-More information can be had-ed over on the [/wiki|wiki].
+More information can be had-ed over on the [wiki](wiki).
