@@ -10,4 +10,4 @@ OK, well *maybe* there *aren't* computerized elves, but there is a nifty little 
 - and a basic Unity theme template
 
 **Go crazy-nuts! Make cool stuff!**
-More information can be had-ed over on the [Wiki](/videotoaster/unity-theme-toolkit/wiki).
+More information can be had-ed over on the [Wiki](https:/github.com/videotoaster/unity-theme-toolkit/wiki).
